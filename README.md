@@ -1,8 +1,8 @@
 # odin-recipes
 
-Practicing HTML Knowledge
+Created recipe site to practice HTML
 
--Basic HTML format
--image/gif tags
--paragraph tags
--header tags
+-HTML Boilerplate
+-Insert links and images
+-Using ordered lists
+-Git commands and commit messages
