@@ -1,10 +1,22 @@
 *,
-*::before,
-*::after {
+*::after,
+*::before {
     box-sizing: border-box;
 }
 
-div {
-    padding: 10px;
-    margin: auto;
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: whitesmoke;
 }
+
+.title {
+    padding: 30px;
+    margin: 5px auto;
+}
+
+.recipe {
+    padding: 15px;
+}
+
+
+
